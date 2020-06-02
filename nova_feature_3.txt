@@ -1,2 +1,2 @@
-primeira linha nova feature branch 4
-nova feature branch 4
+nova linha 4
+segunda linha 4
