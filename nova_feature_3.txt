@@ -1,2 +1,7 @@
+<<<<<<< .merge_file_a19612
 nova linha 4
 segunda linha 4
+=======
+primeira linha nova feature 3
+nova feature 3
+>>>>>>> .merge_file_a18860
