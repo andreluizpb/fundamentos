@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 linha feature 4
 linha comum
-=======
 linha feature 3
 linha comum
->>>>>>> 070192260d737bd77be4e2deb7340644185b3c4f
