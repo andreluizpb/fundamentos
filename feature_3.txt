@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 conteúdo da feature 4
 nova linha da feature 4
+=======
+primeira linha na feature 3
+conteúdo da feature 3
+>>>>>>> 4457f0f0acf4e97b582987e2910f2283f4b9a5d5
